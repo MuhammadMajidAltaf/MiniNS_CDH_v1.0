@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]C:\Users\SVogel\Documents\Vivado\sys1_z020\SDKRelease1\MZ_FSBL\Release\MZ_FSBL.elf
+	C:\Users\SVogel\Documents\Vivado\sys1_z020\SDKRelease1\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+	C:\Users\SVogel\Documents\Vivado\sys1_z020\SDKRelease1\Lunah_DevKit\Release\Lunah_DevKit.elf
+}
