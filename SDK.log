@@ -37,3 +37,5 @@ Reason: ERROR: [Common 17-39] 'hsi::generate_bsp' failed due to earlier errors.
 17:40:57 INFO  : XSDB server has started successfully.
 17:40:58 INFO  : Processing command line option -hwspec C:/Users/SVogel/Documents/Vivado/sys1_z020/SDKRelease1/design_1_wrapper.hdf.
 17:40:59 INFO  : Checking for hwspec changes in the project design_1_wrapper_hw_platform_0.
+16:18:46 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/SDK/2015.3/scripts/xsdb/xsdb/xsdb-server.tcl
+16:18:48 INFO  : XSDB server has started successfully.
