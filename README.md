@@ -1,2 +1,2 @@
 # LPHMapEmbedded
-This repository is for Zynq embedded codes 
+This repository is for Zynq embedded codes. There are two folders and two extra files, including this one. The first folder is the hardware wrapper folder, the second is the source code which is run on the board. The first extra file is this README, the other is a .pdf file which informs the user how to clone this repository and implement it in the Eclipse SDK.
