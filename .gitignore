@@ -1,0 +1,17 @@
+# .gitignore file
+# file tells git what to ignore when checking for changes in any files in this directory
+
+#ignore all files in these directories
+MZ_FSBL/
+MZ_FSBL_bsp/
+standalone_bsp_0/
+.metadata/
+RemoteSystemsTempFiles/
+
+#ignore these subdirectories
+Lunah_DevKit_v1.0/Debug/
+Lunah_DevKit_v1.0/Release/
+
+#ignore all .pdf files
+*.pdf
+
