@@ -8,8 +8,8 @@ MZ_FSBL_bsp/
 RemoteSystemsTempFiles/
 
 #ignore these subdirectories
-/Debug
-/Release
+Debug/
+Release/
 
 #ignore all .pdf files
 *.pdf
