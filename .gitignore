@@ -15,3 +15,5 @@ Lunah_DevKit_v1.0/Release/
 #ignore all .pdf files
 *.pdf
 
+#ignore SDK.log file
+SDK.log
