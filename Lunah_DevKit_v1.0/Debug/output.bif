@@ -1,6 +1,0 @@
-the_ROM_image:
-{
-	[bootloader]C:\Users\SVogel\Documents\Vivado\Vivado_2015_3\sys1_z020\sdk2\MZFSBL\Release\MZFSBL.elf
-	C:\Users\SVogel\Documents\Vivado\Vivado_2015_3\sys1_z020\sdk2\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
-	C:\Users\SVogel\Documents\Vivado\Vivado_2015_3\sys1_z020\sdk2\Lunah_DevKit\Release\Lunah_DevKit.elf
-}
