@@ -4,13 +4,12 @@
 #ignore all files in these directories
 MZ_FSBL/
 MZ_FSBL_bsp/
-standalone_bsp_0/
 .metadata/
 RemoteSystemsTempFiles/
 
 #ignore these subdirectories
-Lunah_DevKit_v1.0/Debug/
-Lunah_DevKit_v1.0/Release/
+Debug/
+Release/
 
 #ignore all .pdf files
 *.pdf
