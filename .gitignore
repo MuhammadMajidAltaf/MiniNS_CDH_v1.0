@@ -6,6 +6,7 @@ MZ_FSBL/
 MZ_FSBL_bsp/
 .metadata/
 RemoteSystemsTempFiles/
+webtalk/
 
 #ignore these subdirectories
 Debug/
