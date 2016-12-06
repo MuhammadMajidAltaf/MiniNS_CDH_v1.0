@@ -853,166 +853,166 @@ CONFIG.CONST_VAL {0} \
   regenerate_bd_layout -layout_string {
    guistr: "# # String gsaved with Nlview 6.5.5  2015-06-26 bk=1.3371 VDI=38 GEI=35 GUI=JA:1.6
 #  -string -flagsOSRD
-preplace port DDR -pg 1 -y 2160 -defaultsOSRD
-preplace port clkin_p -pg 1 -y 1820 -defaultsOSRD
-preplace port FIXED_IO -pg 1 -y 2180 -defaultsOSRD
-preplace port clkin_n -pg 1 -y 1840 -defaultsOSRD
-preplace portBus din_n -pg 1 -y 1900 -defaultsOSRD
-preplace portBus din_p -pg 1 -y 1880 -defaultsOSRD
-preplace inst Trigger_0 -pg 1 -lvl 5 -y 2040 -defaultsOSRD
-preplace inst c_shift_ram_4 -pg 1 -lvl 6 -y 2230 -defaultsOSRD
+preplace port DDR -pg 1 -y 2410 -defaultsOSRD
+preplace port clkin_p -pg 1 -y 2570 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -y 2430 -defaultsOSRD
+preplace port clkin_n -pg 1 -y 2590 -defaultsOSRD
+preplace portBus din_n -pg 1 -y 2650 -defaultsOSRD
+preplace portBus din_p -pg 1 -y 2630 -defaultsOSRD
+preplace inst Trigger_0 -pg 1 -lvl 5 -y 2380 -defaultsOSRD
+preplace inst c_shift_ram_4 -pg 1 -lvl 6 -y 2370 -defaultsOSRD
 preplace inst axi_gpio_8 -pg 1 -lvl 12 -y 200 -defaultsOSRD
-preplace inst axi_gpio_10 -pg 1 -lvl 12 -y 2480 -defaultsOSRD
-preplace inst MUX6_0 -pg 1 -lvl 9 -y 1900 -defaultsOSRD
-preplace inst TriggerV2_0 -pg 1 -lvl 5 -y 2160 -defaultsOSRD
-preplace inst c_shift_ram_5 -pg 1 -lvl 6 -y 1770 -defaultsOSRD
-preplace inst axi_gpio_9 -pg 1 -lvl 12 -y 1950 -defaultsOSRD
-preplace inst axi_gpio_11 -pg 1 -lvl 12 -y 1490 -defaultsOSRD
-preplace inst axi_dma_0 -pg 1 -lvl 12 -y 2200 -defaultsOSRD
-preplace inst AA_IntegratorV3_0 -pg 1 -lvl 7 -y 1550 -defaultsOSRD
-preplace inst xlconstant_0 -pg 1 -lvl 1 -y 1950 -defaultsOSRD
-preplace inst rst_processing_system7_0_100M -pg 1 -lvl 10 -y 1820 -defaultsOSRD
-preplace inst gater_0 -pg 1 -lvl 10 -y 2180 -defaultsOSRD
-preplace inst c_shift_ram_6 -pg 1 -lvl 6 -y 1190 -defaultsOSRD
+preplace inst axi_gpio_10 -pg 1 -lvl 12 -y 2120 -defaultsOSRD
+preplace inst MUX6_0 -pg 1 -lvl 9 -y 2280 -defaultsOSRD
+preplace inst TriggerV2_0 -pg 1 -lvl 5 -y 2260 -defaultsOSRD
+preplace inst c_shift_ram_5 -pg 1 -lvl 9 -y 2520 -defaultsOSRD
+preplace inst axi_gpio_9 -pg 1 -lvl 12 -y 1840 -defaultsOSRD
+preplace inst axi_gpio_11 -pg 1 -lvl 12 -y 1370 -defaultsOSRD
+preplace inst axi_dma_0 -pg 1 -lvl 12 -y 2620 -defaultsOSRD
+preplace inst AA_IntegratorV3_0 -pg 1 -lvl 7 -y 2080 -defaultsOSRD
+preplace inst xlconstant_0 -pg 1 -lvl 1 -y 2700 -defaultsOSRD
+preplace inst rst_processing_system7_0_100M -pg 1 -lvl 10 -y 2200 -defaultsOSRD
+preplace inst gater_0 -pg 1 -lvl 10 -y 2370 -defaultsOSRD
+preplace inst c_shift_ram_6 -pg 1 -lvl 6 -y 1570 -defaultsOSRD
 preplace inst axi_gpio_12 -pg 1 -lvl 12 -y 980 -defaultsOSRD
-preplace inst LPF_Integrator_0 -pg 1 -lvl 7 -y 1920 -defaultsOSRD
-preplace inst xlconstant_1 -pg 1 -lvl 10 -y 2310 -defaultsOSRD
-preplace inst capture_0 -pg 1 -lvl 2 -y 1860 -defaultsOSRD
-preplace inst c_shift_ram_7 -pg 1 -lvl 6 -y 1290 -defaultsOSRD
+preplace inst LPF_Integrator_0 -pg 1 -lvl 7 -y 1770 -defaultsOSRD
+preplace inst xlconstant_1 -pg 1 -lvl 10 -y 2550 -defaultsOSRD
+preplace inst capture_0 -pg 1 -lvl 2 -y 2610 -defaultsOSRD
+preplace inst c_shift_ram_7 -pg 1 -lvl 6 -y 1690 -defaultsOSRD
 preplace inst axi_gpio_13 -pg 1 -lvl 12 -y 460 -defaultsOSRD
-preplace inst fit_timer_0 -pg 1 -lvl 12 -y 2350 -defaultsOSRD
-preplace inst c_shift_ram_8 -pg 1 -lvl 6 -y 1410 -defaultsOSRD
-preplace inst axi_gpio_14 -pg 1 -lvl 12 -y 2600 -defaultsOSRD
-preplace inst xlconcat_0 -pg 1 -lvl 13 -y 2410 -defaultsOSRD
-preplace inst mult_gen_0 -pg 1 -lvl 4 -y 1870 -defaultsOSRD
-preplace inst c_shift_ram_9 -pg 1 -lvl 6 -y 1530 -defaultsOSRD
+preplace inst fit_timer_0 -pg 1 -lvl 12 -y 2920 -defaultsOSRD
+preplace inst c_shift_ram_8 -pg 1 -lvl 6 -y 2150 -defaultsOSRD
+preplace inst axi_gpio_14 -pg 1 -lvl 12 -y 2280 -defaultsOSRD
+preplace inst xlconcat_0 -pg 1 -lvl 13 -y 2670 -defaultsOSRD
+preplace inst mult_gen_0 -pg 1 -lvl 4 -y 2560 -defaultsOSRD
+preplace inst c_shift_ram_9 -pg 1 -lvl 6 -y 2020 -defaultsOSRD
 preplace inst axi_gpio_15 -pg 1 -lvl 12 -y 720 -defaultsOSRD
-preplace inst axi_gpio_0 -pg 1 -lvl 12 -y 1100 -defaultsOSRD
-preplace inst c_counter_binary_0 -pg 1 -lvl 6 -y 2020 -defaultsOSRD
-preplace inst mult_gen_1 -pg 1 -lvl 4 -y 1730 -defaultsOSRD
-preplace inst axi_gpio_16 -pg 1 -lvl 12 -y 2870 -defaultsOSRD
-preplace inst axi_gpio_1 -pg 1 -lvl 12 -y 1220 -defaultsOSRD
-preplace inst axi_gpio_17 -pg 1 -lvl 12 -y 3010 -defaultsOSRD
-preplace inst axi_gpio_2 -pg 1 -lvl 12 -y 1360 -defaultsOSRD
-preplace inst readout_0 -pg 1 -lvl 8 -y 1860 -defaultsOSRD
-preplace inst axi_gpio_18 -pg 1 -lvl 12 -y 2750 -defaultsOSRD
-preplace inst axi_gpio_3 -pg 1 -lvl 12 -y 1810 -defaultsOSRD
-preplace inst axi_gpio_19 -pg 1 -lvl 12 -y 1680 -defaultsOSRD
-preplace inst Master_Slave_Stream_v1_0_0 -pg 1 -lvl 11 -y 2370 -defaultsOSRD
-preplace inst c_shift_ram_0 -pg 1 -lvl 6 -y 1650 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 12 -y 1240 -defaultsOSRD
+preplace inst c_counter_binary_0 -pg 1 -lvl 6 -y 2260 -defaultsOSRD
+preplace inst mult_gen_1 -pg 1 -lvl 4 -y 2430 -defaultsOSRD
+preplace inst axi_gpio_16 -pg 1 -lvl 12 -y 2440 -defaultsOSRD
+preplace inst axi_gpio_1 -pg 1 -lvl 12 -y 1100 -defaultsOSRD
+preplace inst axi_gpio_17 -pg 1 -lvl 12 -y 2790 -defaultsOSRD
+preplace inst axi_gpio_2 -pg 1 -lvl 12 -y 1520 -defaultsOSRD
+preplace inst readout_0 -pg 1 -lvl 8 -y 2170 -defaultsOSRD
+preplace inst axi_gpio_18 -pg 1 -lvl 12 -y 3050 -defaultsOSRD
+preplace inst axi_gpio_3 -pg 1 -lvl 12 -y 1660 -defaultsOSRD
+preplace inst axi_gpio_19 -pg 1 -lvl 12 -y 1970 -defaultsOSRD
+preplace inst Master_Slave_Stream_v1_0_0 -pg 1 -lvl 11 -y 2630 -defaultsOSRD
+preplace inst c_shift_ram_0 -pg 1 -lvl 6 -y 2500 -defaultsOSRD
 preplace inst axi_gpio_4 -pg 1 -lvl 12 -y 340 -defaultsOSRD
-preplace inst DFF_Integrator_0 -pg 1 -lvl 7 -y 1260 -defaultsOSRD
-preplace inst c_shift_ram_1 -pg 1 -lvl 6 -y 1900 -defaultsOSRD
+preplace inst DFF_Integrator_0 -pg 1 -lvl 7 -y 1510 -defaultsOSRD
+preplace inst c_shift_ram_1 -pg 1 -lvl 6 -y 2620 -defaultsOSRD
 preplace inst axi_gpio_5 -pg 1 -lvl 12 -y 600 -defaultsOSRD
-preplace inst lpf_0 -pg 1 -lvl 5 -y 1870 -defaultsOSRD
-preplace inst c_shift_ram_2 -pg 1 -lvl 8 -y 2180 -defaultsOSRD
-preplace inst axi_mem_intercon -pg 1 -lvl 13 -y 2230 -defaultsOSRD
+preplace inst lpf_0 -pg 1 -lvl 5 -y 2720 -defaultsOSRD
+preplace inst c_shift_ram_2 -pg 1 -lvl 8 -y 2520 -defaultsOSRD
+preplace inst axi_mem_intercon -pg 1 -lvl 13 -y 2480 -defaultsOSRD
 preplace inst axi_gpio_6 -pg 1 -lvl 12 -y 860 -defaultsOSRD
-preplace inst AA_0 -pg 1 -lvl 3 -y 1860 -defaultsOSRD
-preplace inst processing_system7_0_axi_periph -pg 1 -lvl 11 -y 1360 -defaultsOSRD
-preplace inst c_shift_ram_3 -pg 1 -lvl 6 -y 2110 -defaultsOSRD
+preplace inst AA_0 -pg 1 -lvl 3 -y 2610 -defaultsOSRD
+preplace inst processing_system7_0_axi_periph -pg 1 -lvl 11 -y 1340 -defaultsOSRD
+preplace inst c_shift_ram_3 -pg 1 -lvl 6 -y 2720 -defaultsOSRD
 preplace inst axi_gpio_7 -pg 1 -lvl 12 -y 60 -defaultsOSRD
-preplace inst DFF_0 -pg 1 -lvl 5 -y 1720 -defaultsOSRD
-preplace inst processing_system7_0 -pg 1 -lvl 14 -y 2250 -defaultsOSRD
-preplace netloc axi_gpio_6_gpio_io_o 1 6 7 1460 2120 NJ 2120 NJ 2120 NJ 2050 NJ 2050 NJ 2050 3690
-preplace netloc axi_gpio_14_gpio_io_o 1 8 5 2080 2090 NJ 2090 NJ 2090 NJ 2090 3640
-preplace netloc processing_system7_0_axi_periph_M08_AXI 1 11 1 3100
-preplace netloc c_shift_ram_0_Q 1 6 3 1420 1750 NJ 1750 NJ
+preplace inst DFF_0 -pg 1 -lvl 5 -y 2560 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 14 -y 2500 -defaultsOSRD
+preplace netloc axi_gpio_6_gpio_io_o 1 6 7 1400 1920 NJ 1920 NJ 1920 NJ 1920 NJ 1920 NJ 1770 3470
+preplace netloc axi_gpio_14_gpio_io_o 1 8 5 1960 2440 NJ 2290 NJ 2290 NJ 2210 3430
+preplace netloc processing_system7_0_axi_periph_M08_AXI 1 11 1 2910
+preplace netloc c_shift_ram_0_Q 1 6 3 1310 2320 NJ 2320 NJ
 preplace netloc processing_system7_0_FIXED_IO 1 14 1 NJ
-preplace netloc processing_system7_0_axi_periph_M17_AXI 1 11 1 3130
-preplace netloc axi_gpio_1_gpio_io_o 1 5 8 1050 530 NJ 530 NJ 530 NJ 530 NJ 530 NJ 530 NJ 530 3650
-preplace netloc fit_timer_0_Interrupt 1 12 1 3690
-preplace netloc LPF_Integrator_0_wrcnt 1 7 6 NJ 1640 NJ 1640 NJ 1640 NJ 1890 NJ 1570 3640
-preplace netloc clkin_p_1 1 0 2 NJ 1820 NJ
-preplace netloc MUX6_0_dout 1 9 2 N 1920 NJ
-preplace netloc xlconcat_0_dout 1 13 1 4030
-preplace netloc axi_gpio_18_gpio_io_o 1 1 12 150 1970 NJ 1970 NJ 1970 NJ 1970 NJ 1970 NJ 2110 NJ 2110 NJ 2110 NJ 2100 NJ 2080 NJ 2080 3670
-preplace netloc axi_gpio_3_gpio_io_o 1 5 8 1120 1710 NJ 1710 NJ 1650 NJ 1650 NJ 1650 NJ 1920 NJ 1880 3630
-preplace netloc processing_system7_0_axi_periph_M18_AXI 1 11 1 3100
-preplace netloc axi_gpio_9_gpio_io_o 1 5 8 1120 1830 NJ 2100 NJ 2100 NJ 2100 NJ 2040 NJ 2040 NJ 2040 3630
-preplace netloc processing_system7_0_axi_periph_M16_AXI 1 11 1 3210
-preplace netloc AA_IntegratorV3_0_rdcnt 1 7 6 NJ 800 NJ 800 NJ 800 NJ 800 NJ 1560 3650
-preplace netloc mult_gen_0_P 1 4 1 810
-preplace netloc c_shift_ram_5_Q 1 6 4 1350 2240 NJ 2240 NJ 2190 NJ
-preplace netloc processing_system7_0_axi_periph_M06_AXI 1 11 1 3160
+preplace netloc processing_system7_0_axi_periph_M17_AXI 1 11 1 2980
+preplace netloc axi_gpio_1_gpio_io_o 1 5 8 1040 1630 NJ 1630 NJ 1870 NJ 1870 NJ 1870 NJ 1870 NJ 1590 3440
+preplace netloc fit_timer_0_Interrupt 1 12 1 3520
+preplace netloc LPF_Integrator_0_wrcnt 1 7 6 NJ 1890 NJ 1890 NJ 1890 NJ 1890 NJ 1740 3450
+preplace netloc clkin_p_1 1 0 2 NJ 2570 NJ
+preplace netloc MUX6_0_dout 1 9 2 2170 2600 NJ
+preplace netloc xlconcat_0_dout 1 13 1 3830
+preplace netloc axi_gpio_18_gpio_io_o 1 1 12 150 2980 NJ 2980 NJ 2980 NJ 2980 NJ 2980 NJ 2980 NJ 2980 NJ 2980 NJ 2980 NJ 2980 NJ 2980 3430
+preplace netloc axi_gpio_3_gpio_io_o 1 5 8 1040 1750 NJ 1640 NJ 1880 NJ 1880 NJ 1880 NJ 1880 NJ 1730 3430
+preplace netloc processing_system7_0_axi_periph_M18_AXI 1 11 1 2950
+preplace netloc axi_gpio_9_gpio_io_o 1 6 7 1360 2460 NJ 2460 1880 2460 NJ 2460 NJ 2460 NJ 2520 3470
+preplace netloc processing_system7_0_axi_periph_M16_AXI 1 11 1 2980
+preplace netloc AA_IntegratorV3_0_rdcnt 1 7 6 NJ 2050 NJ 2050 NJ 2050 NJ 2050 NJ 2050 3430
+preplace netloc mult_gen_0_P 1 4 1 740
+preplace netloc c_shift_ram_5_Q 1 9 1 2220
+preplace netloc processing_system7_0_axi_periph_M06_AXI 1 11 1 2940
 preplace netloc processing_system7_0_DDR 1 14 1 NJ
-preplace netloc c_counter_binary_0_Q 1 6 1 1390
-preplace netloc MUX6_0_logic_out 1 9 2 2340 1910 NJ
-preplace netloc axi_gpio_17_gpio_io_o 1 10 3 2800 2110 NJ 2110 3650
+preplace netloc c_counter_binary_0_Q 1 6 1 1230
+preplace netloc MUX6_0_logic_out 1 9 2 2180 2620 NJ
+preplace netloc axi_gpio_17_gpio_io_o 1 10 3 2610 2860 NJ 2860 3430
 preplace netloc c_shift_ram_7_Q 1 6 1 1320
-preplace netloc din_n_1 1 0 2 NJ 1900 NJ
-preplace netloc lpf_0_dout 1 5 1 1090
-preplace netloc AA_IntegratorV3_0_wrcnt 1 7 6 NJ 130 NJ 130 NJ 130 NJ 130 NJ 130 3680
-preplace netloc capture_0_clkout 1 2 9 380 1780 590 1670 780 1610 1100 1590 1400 1780 1810 1740 2080 1740 2320 2260 NJ
-preplace netloc Trigger_0_event_done 1 5 5 1060 2290 NJ 2290 NJ 2290 NJ 2170 N
-preplace netloc axi_gpio_10_gpio_io_o 1 4 9 810 2530 NJ 2530 NJ 2530 NJ 2530 NJ 2530 NJ 2530 NJ 2530 NJ 2410 3630
+preplace netloc din_n_1 1 0 2 NJ 2650 NJ
+preplace netloc lpf_0_dout 1 5 1 1020
+preplace netloc AA_IntegratorV3_0_wrcnt 1 7 6 NJ 1860 NJ 1860 NJ 1860 NJ 1860 NJ 1450 3430
+preplace netloc capture_0_clkout 1 2 9 370 2540 560 2490 750 2630 1030 2430 1250 2260 1680 2580 1940 2580 2210 2640 NJ
+preplace netloc Trigger_0_event_done 1 5 5 1040 2560 NJ 2450 NJ 2450 NJ 2450 2190
+preplace netloc axi_gpio_10_gpio_io_o 1 4 9 780 2080 NJ 2080 NJ 2240 NJ 2060 NJ 2060 NJ 2060 NJ 2070 NJ 2190 3430
 preplace netloc xlconstant_1_dout 1 10 1 NJ
-preplace netloc processing_system7_0_axi_periph_M05_AXI 1 11 1 3120
-preplace netloc axi_gpio_16_gpio_io_o 1 10 3 2790 2100 NJ 2100 3660
-preplace netloc readout_0_en_a 1 6 3 1470 1730 NJ 1720 2010
-preplace netloc processing_system7_0_axi_periph_M20_AXI 1 11 1 3150
-preplace netloc processing_system7_0_FCLK_RESET0_N 1 9 6 2360 2680 NJ 2680 NJ 2680 NJ 2680 NJ 2680 4450
-preplace netloc axi_gpio_15_gpio_io_o 1 7 6 1820 1670 NJ 1670 NJ 1670 NJ 1900 NJ 1580 3660
-preplace netloc Trigger_0_dout 1 5 3 1080 1960 NJ 2090 NJ
-preplace netloc c_shift_ram_4_Q 1 6 1 1380
-preplace netloc processing_system7_0_axi_periph_M10_AXI 1 11 1 3230
-preplace netloc processing_system7_0_axi_periph_M03_AXI 1 11 1 3180
-preplace netloc processing_system7_0_axi_periph_M02_AXI 1 11 1 N
-preplace netloc readout_0_en_d 1 6 3 1450 1740 NJ 1710 2020
-preplace netloc processing_system7_0_axi_periph_M07_AXI 1 11 1 3190
-preplace netloc readout_0_dout 1 8 1 2010
-preplace netloc lpf_0_L_n1 1 3 3 600 1620 NJ 1620 1060
-preplace netloc c_shift_ram_2_Q 1 8 1 2030
-preplace netloc din_p_1 1 0 2 NJ 1880 NJ
-preplace netloc mult_gen_1_P 1 4 1 800
-preplace netloc processing_system7_0_axi_periph_M09_AXI 1 11 1 3140
-preplace netloc Trigger_0_we 1 5 4 1070 1840 1310 1760 NJ 1690 2070
-preplace netloc capture_0_dout 1 2 1 400
-preplace netloc processing_system7_0_axi_periph_M11_AXI 1 11 1 3160
-preplace netloc c_shift_ram_9_Q 1 6 1 1370
-preplace netloc processing_system7_0_axi_periph_M13_AXI 1 11 1 3220
-preplace netloc axi_dma_0_M_AXI_S2MM 1 12 1 3710
-preplace netloc processing_system7_0_axi_periph_M19_AXI 1 11 1 3120
-preplace netloc processing_system7_0_axi_periph_M12_AXI 1 11 1 3250
-preplace netloc processing_system7_0_axi_periph_M01_AXI 1 11 1 3180
-preplace netloc capture_0_load 1 2 3 390 1790 NJ 1790 820
-preplace netloc gater_0_rst 1 10 1 2700
-preplace netloc readout_0_en_l 1 6 3 1470 1790 NJ 1700 2030
-preplace netloc processing_system7_0_FCLK_CLK0 1 5 10 1110 1350 NJ 1390 NJ 1390 NJ 1390 2360 1390 2740 830 3240 2070 3720 2110 4030 2110 4450
-preplace netloc clkin_n_1 1 0 2 NJ 1840 NJ
-preplace netloc processing_system7_0_FCLK_CLK1 1 6 9 1440 2670 NJ 2670 NJ 2670 NJ 2670 NJ 2670 NJ 2670 NJ 2670 NJ 2670 4460
-preplace netloc rst_processing_system7_0_100M_interconnect_aresetn 1 10 3 2790 2030 NJ 2030 3730
-preplace netloc processing_system7_0_axi_periph_M00_AXI 1 11 1 3260
-preplace netloc c_shift_ram_8_Q 1 6 1 1390
-preplace netloc axi_gpio_7_gpio_io_o 1 6 7 1430 2080 NJ 2080 NJ 2080 NJ 2080 NJ 2060 NJ 2060 3720
-preplace netloc MUX6_0_en_integration 1 9 1 2310
-preplace netloc readout_0_we 1 8 1 2050
-preplace netloc axi_gpio_5_gpio_io_o 1 6 7 1470 2060 NJ 2060 NJ 2060 NJ 2020 NJ 2020 NJ 2020 3700
-preplace netloc LPF_Integrator_0_dout 1 7 1 1820
-preplace netloc AA_0_dout 1 3 3 600 1800 790 1640 NJ
-preplace netloc c_shift_ram_1_Q 1 6 3 1360 1770 NJ 1760 NJ
-preplace netloc processing_system7_0_axi_periph_M14_AXI 1 11 1 3200
-preplace netloc AA_IntegratorV3_0_dout 1 7 1 1750
-preplace netloc lpf_0_CE_O 1 3 3 610 1650 NJ 1650 1050
-preplace netloc axi_gpio_4_gpio_io_o 1 6 7 1450 2070 NJ 2070 NJ 2070 NJ 2070 NJ 2070 NJ 1590 3670
-preplace netloc Master_Slave_Stream_v1_0_0_m00_axis 1 11 1 3310
-preplace netloc DFF_0_dout 1 5 1 1110
-preplace netloc DFF_Integrator_0_dout 1 7 1 1760
+preplace netloc processing_system7_0_axi_periph_M05_AXI 1 11 1 2920
+preplace netloc axi_gpio_16_gpio_io_o 1 10 3 2610 2450 NJ 2510 3430
+preplace netloc readout_0_en_a 1 6 3 1400 2270 NJ 2270 1890
+preplace netloc processing_system7_0_axi_periph_M20_AXI 1 11 1 2990
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 9 6 2230 2450 NJ 2430 NJ 2370 NJ 2360 NJ 2360 4280
+preplace netloc axi_gpio_15_gpio_io_o 1 7 6 1690 790 NJ 790 NJ 790 NJ 790 NJ 790 3430
+preplace netloc Trigger_0_dout 1 5 3 NJ 2440 NJ 2440 1630
+preplace netloc c_shift_ram_4_Q 1 6 1 1260
+preplace netloc processing_system7_0_axi_periph_M10_AXI 1 11 1 3070
+preplace netloc processing_system7_0_axi_periph_M03_AXI 1 11 1 3090
+preplace netloc processing_system7_0_axi_periph_M02_AXI 1 11 1 2950
+preplace netloc readout_0_en_d 1 6 3 1350 2290 NJ 2290 1870
+preplace netloc processing_system7_0_axi_periph_M07_AXI 1 11 1 2960
+preplace netloc readout_0_dout 1 8 1 1920
+preplace netloc lpf_0_L_n1 1 3 3 570 2800 NJ 2800 1000
+preplace netloc c_shift_ram_2_Q 1 8 1 1950
+preplace netloc din_p_1 1 0 2 NJ 2630 NJ
+preplace netloc mult_gen_1_P 1 4 1 760
+preplace netloc processing_system7_0_axi_periph_M09_AXI 1 11 1 2930
+preplace netloc Trigger_0_we 1 5 4 NJ 2310 1300 2310 NJ 2310 1930
+preplace netloc capture_0_dout 1 2 1 380
+preplace netloc processing_system7_0_axi_periph_M11_AXI 1 11 1 3050
+preplace netloc c_shift_ram_9_Q 1 6 1 1290
+preplace netloc processing_system7_0_axi_periph_M13_AXI 1 11 1 2990
+preplace netloc axi_dma_0_M_AXI_S2MM 1 12 1 3480
+preplace netloc processing_system7_0_axi_periph_M19_AXI 1 11 1 2930
+preplace netloc processing_system7_0_axi_periph_M12_AXI 1 11 1 3000
+preplace netloc processing_system7_0_axi_periph_M01_AXI 1 11 1 3100
+preplace netloc capture_0_load 1 2 3 370 2680 NJ 2680 780
+preplace netloc gater_0_rst 1 10 1 2560
+preplace netloc readout_0_en_l 1 6 3 1370 2280 NJ 2280 1880
+preplace netloc processing_system7_0_FCLK_CLK0 1 5 10 1030 2210 NJ 2300 NJ 2300 NJ 2120 2230 2110 2570 2060 3030 2720 3500 2600 3840 2640 4270
+preplace netloc clkin_n_1 1 0 2 NJ 2590 NJ
+preplace netloc processing_system7_0_FCLK_CLK1 1 6 9 1390 2590 NJ 2590 NJ 2590 NJ 2500 NJ 2470 NJ 2530 NJ 2610 NJ 2650 4260
+preplace netloc rst_processing_system7_0_100M_interconnect_aresetn 1 10 3 2600 2360 NJ 2360 NJ
+preplace netloc processing_system7_0_axi_periph_M00_AXI 1 11 1 3020
+preplace netloc c_shift_ram_8_Q 1 6 1 N
+preplace netloc axi_gpio_7_gpio_io_o 1 6 7 1390 130 NJ 130 NJ 130 NJ 130 NJ 130 NJ 130 3520
+preplace netloc MUX6_0_en_integration 1 9 1 2200
+preplace netloc readout_0_we 1 8 1 1900
+preplace netloc axi_gpio_5_gpio_io_o 1 6 7 1390 1910 NJ 1910 NJ 1910 NJ 1910 NJ 1910 NJ 1760 3510
+preplace netloc LPF_Integrator_0_dout 1 7 1 1630
+preplace netloc AA_0_dout 1 3 3 560 2630 770 2490 NJ
+preplace netloc c_shift_ram_1_Q 1 6 3 1270 2350 NJ 2350 NJ
+preplace netloc processing_system7_0_axi_periph_M14_AXI 1 11 1 2970
+preplace netloc AA_IntegratorV3_0_dout 1 7 1 1620
+preplace netloc lpf_0_CE_O 1 3 3 580 2640 NJ 2640 1010
+preplace netloc axi_gpio_4_gpio_io_o 1 6 7 1380 1900 NJ 1900 NJ 1900 NJ 1900 NJ 1900 NJ 1750 3520
+preplace netloc Master_Slave_Stream_v1_0_0_m00_axis 1 11 1 3100
+preplace netloc DFF_0_dout 1 5 1 1000
+preplace netloc DFF_Integrator_0_dout 1 7 1 1650
 preplace netloc xlconstant_0_dout 1 1 1 NJ
 preplace netloc axi_mem_intercon_M00_AXI 1 13 1 N
-preplace netloc axi_gpio_0_gpio_io_o 1 5 8 1110 780 NJ 780 NJ 780 NJ 780 NJ 780 NJ 780 NJ 790 3630
-preplace netloc axi_gpio_8_gpio_io_o 1 6 7 1460 1720 NJ 1660 NJ 1660 NJ 1660 NJ 1910 NJ 1610 3710
-preplace netloc DFF_Integrator_0_wrcnt 1 7 6 1720 270 NJ 270 NJ 270 NJ 270 NJ 270 3630
-preplace netloc axi_dma_0_s2mm_introut 1 12 1 3700
-preplace netloc processing_system7_0_axi_periph_M15_AXI 1 11 1 3140
-preplace netloc processing_system7_0_axi_periph_M04_AXI 1 11 1 3110
+preplace netloc axi_gpio_0_gpio_io_o 1 5 8 1030 820 NJ 820 NJ 820 NJ 820 NJ 820 NJ 820 NJ 1170 3430
+preplace netloc axi_gpio_8_gpio_io_o 1 6 7 1400 270 NJ 270 NJ 270 NJ 270 NJ 270 NJ 270 3520
+preplace netloc DFF_Integrator_0_wrcnt 1 7 6 1620 530 NJ 530 NJ 530 NJ 530 NJ 530 3510
+preplace netloc axi_dma_0_s2mm_introut 1 12 1 3440
+preplace netloc processing_system7_0_axi_periph_M15_AXI 1 11 1 3000
+preplace netloc processing_system7_0_axi_periph_M04_AXI 1 11 1 3080
 preplace netloc TriggerV2_0_we 1 5 1 NJ
-preplace netloc rst_processing_system7_0_100M_peripheral_aresetn 1 10 3 2760 840 3170 2290 3730
-preplace netloc axi_gpio_2_gpio_io_o 1 5 8 1060 820 NJ 820 NJ 820 NJ 820 NJ 820 NJ 820 NJ 1290 3630
-preplace netloc c_shift_ram_6_Q 1 6 1 1330
-preplace netloc S00_AXI_1 1 10 5 2800 1880 NJ 1600 NJ 1600 NJ 1600 4460
-preplace netloc c_shift_ram_3_Q 1 6 3 1330 2050 NJ 1960 2020
-levelinfo -pg 1 -10 80 270 500 700 940 1220 1600 1920 2200 2530 2950 3470 3880 4240 4480 -top 0 -bot 3090
+preplace netloc rst_processing_system7_0_100M_peripheral_aresetn 1 10 3 2590 2440 3010 2710 3510
+preplace netloc axi_gpio_2_gpio_io_o 1 5 8 1040 2090 NJ 2250 NJ 2070 NJ 2070 NJ 2070 NJ 2080 NJ 2200 3460
+preplace netloc c_shift_ram_6_Q 1 6 1 1340
+preplace netloc S00_AXI_1 1 10 5 2610 2350 NJ 2350 NJ 2350 NJ 2350 4290
+preplace netloc c_shift_ram_3_Q 1 6 3 1330 2330 NJ 2330 NJ
+levelinfo -pg 1 0 80 260 470 660 890 1130 1510 1780 2060 2390 2760 3270 3670 4050 4310 -top 0 -bot 3120
 ",
 }
 
